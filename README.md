@@ -24,9 +24,18 @@ Electronics and Telecommunications Student at University of Science   Interested
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/son10xu/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/son10xu/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/son10xu/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/son10xu/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/son10xu/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
