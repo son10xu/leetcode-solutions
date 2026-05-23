@@ -16,6 +16,7 @@ Electronics and Telecommunications Student at University of Science   Interested
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/son10xu/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0075-sort-colors](https://github.com/son10xu/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -38,4 +39,12 @@ Electronics and Telecommunications Student at University of Science   Interested
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/son10xu/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/son10xu/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/son10xu/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
