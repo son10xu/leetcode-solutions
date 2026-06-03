@@ -8,6 +8,7 @@ Electronics and Telecommunications Student at University of Science   Interested
 | ------- | ------- |
 | [0001-two-sum](https://github.com/son10xu/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0016-3sum-closest](https://github.com/son10xu/leetcode-solutions/tree/main/0016-3sum-closest/) | Medium |
+| [0035-search-insert-position](https://github.com/son10xu/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/son10xu/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0075-sort-colors](https://github.com/son10xu/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 ## Hash Table
@@ -50,4 +51,8 @@ Electronics and Telecommunications Student at University of Science   Interested
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/son10xu/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/son10xu/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
